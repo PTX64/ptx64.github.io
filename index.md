@@ -40,7 +40,7 @@ Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All r
 - 🔊 **Google Text-to-Speech** - A speech synthesis tool that converts text into spoken words.
 - 🛡️ **WireGuard** - A cutting-edge VPN solution that offers a fast and secure method to safeguard your internet connection.
 - 💬 **Signal** - Encrypted messaging app.
-- 📂 **Material Design File Manager** - A modern file manager for Android with a clean and intuitive interface.
+- 📂 **Material Design File Manager** - A modern file manager for Android with a clean and intuitive interface (Custom fork with Google Firebase logging disabled).
 - 🗝️ **DroidFS** - A user-friendly file system management tool that simplifies the process of encrypting your device's files for secure cloud storage.
 - 💻 **Termux** - A terminal emulator and Linux environment for Android.
 - 📧 **Thunderbird** - A free and open-source email client with robust features.
@@ -71,7 +71,7 @@ Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All r
 - 🔊 **Google Text-to-Speech** - A speech synthesis tool that converts text into spoken words.
 - 🛡️ **WireGuard** - A cutting-edge VPN solution that offers a fast and secure method to safeguard your internet connection.
 - 💬 **Signal** - Encrypted messaging app.
-- 📂 **Material Design File Manager** - A modern file manager for Android with a clean and intuitive interface.
+- 📂 **Material Design File Manager** - A modern file manager for Android with a clean and intuitive interface (Custom fork with Google Firebase logging disabled).
 - 🗝️ **DroidFS** - A user-friendly file system management tool that simplifies the process of encrypting your device's files for secure cloud storage.
 - 💻 **Termux** - A terminal emulator and Linux environment for Android.
 - 📧 **Thunderbird** - A free and open-source email client with robust features.
