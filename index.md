@@ -21,30 +21,30 @@ Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All r
 
 ## 1. 📱 ROM Releases
 
-### 1.1 🌟 Key Features of CrDroid v11.5 | Android 15 | [XDA Thread](https://xdaforums.com/t/crdroid-v11-1-rom-release-android-15-1-ota-vanilla-special-compatible-with-magisk-twrp-pbrp-and-orangefox-for-xiaomi-redmi-note-10-sunny.4717327/)
+### 1.1 🌟 Key Features of CrDroid+ v11.6 | Android 15 | [XDA Thread](https://xdaforums.com/t/crdroid-v11-1-rom-release-android-15-1-ota-vanilla-special-compatible-with-magisk-twrp-pbrp-and-orangefox-for-xiaomi-redmi-note-10-sunny.4717327/)
 
-- 🔧 **OTA Updates**: Receive seamless updates directly via over-the-air from our own secure servers (OTA).
-- 🔧 **Custom Patchsets**: Tailored security and performance enhancements for a better experience.
+- 🔄 **OTA Updates:** Enjoy seamless over-the-air updates directly from our secure servers, ensuring your device is always up to date.
+- ✅ **MicroG Verified Google Device:** This device has successfully passed Google Play Services' SafetyNet attestation, guaranteeing compatibility and security for a smooth user experience.
+- ⚙️ **Custom Patchsets:** Benefit from tailored security and privacy patchsets designed to enhance both performance and user protection.
+- 📝 **Edit Configuration:** Users can easily modify the **Fortress64/fortress64-apk.config.txt** file to customize the default user and system apps. This configuration file can be reused with every fresh installation, providing a personalized setup.
 
-📦 **Included Removable Apps**
+## 📦 Included Removable Apps
 
-- 🔑 **AFWall** - Advanced firewall for enhanced security.
-- 🚫 **AdAway** - Powerful ad-blocker.
-- 🛍️ **Aurora Store** - An alternative to the Google Play Store that allows you to download apps anonymously.
-- 📦 **Neo Backup** - The open-source tool to backup your apps and data.
-- 🔑 **KeePassDX** - A password manager that helps you securely store and manage your passwords.
-- 🌐 **Ironfox** - Privacy-focused web browser.
-- 🗺️ **MicroG** - A free and open-source implementation of Google Play Services.
-- 🗺️ **Organic Maps** - An offline map application that respects your privacy.
-- 📷 **GrapheneOS Camera** - A secure camera app designed for GrapheneOS.
-- 🔊 **Google Text-to-Speech** - A speech synthesis tool that converts text into spoken words.
-- 🛡️ **WireGuard** - A cutting-edge VPN solution that offers a fast and secure method to safeguard your internet connection.
-- 💬 **Signal** - Encrypted messaging app.
-- 📂 **Material Design File Manager** - A modern file manager for Android with a clean and intuitive interface (Custom fork with Google Firebase logging disabled).
-- 🗝️ **DroidFS** - A user-friendly file system management tool that simplifies the process of encrypting your device's files for secure cloud storage.
-- 💻 **Termux** - A terminal emulator and Linux environment for Android.
-- 📧 **Thunderbird** - A free and open-source email client with robust features.
-- 🔑 **Magisk** - A tool for rooting Android devices and managing root permissions.
+- 🔒 **AFWall:** Advanced firewall for enhanced security.
+- 🛑 **AdAway:** Powerful ad-blocker.
+- 📲 **Aurora Store:** An alternative to the Google Play Store that allows you to download apps anonymously.
+- 💾 **Neo Backup:** Open-source tool to backup your apps and data.
+- 🗝️ **KeePassDX:** A password manager for securely storing and managing your passwords.
+- 🌍 **Ironfox:** Privacy-focused web browser.
+- 📡 **MicroG:** Free and open-source implementation of Google Play Services.
+- 🗺️ **Organic Maps:** Offline map application that respects your privacy.
+- 🛡️ **WireGuard:** Cutting-edge VPN solution for a fast and secure internet connection.
+- 📩 **Signal:** Encrypted messaging app.
+- 📁 **Fossify File Manager:** Modern file manager prioritizing user privacy and customization.
+- 🔐 **DroidFS:** User-friendly file system management tool for encrypting files for secure cloud storage.
+- 🖥️ **Termux:** Terminal emulator and Linux environment for Android.
+- 📬 **Thunderbird:** Free and open-source email client with robust features.
+- 🔓 **Magisk:** Tool for rooting Android devices and managing root permissions.
 
 ---
 
@@ -52,30 +52,30 @@ Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All r
 
 ---
 
-### 1.2 🌟 Key Features of LineageOS v22.2 | Android 15 | [XDA Thread](https://xdaforums.com/t/lineageos-v22-1-rom-release-android-15-1-ota-a-special-compatible-with-magisk-twrp-pbrp-and-orangefox-for-xiaomi-redmi-note-10-sunny.4717332/)
+### 1.2 🌟 Key Features of LineageOS+ v22.2 | Android 15 | [XDA Thread](https://xdaforums.com/t/lineageos-v22-1-rom-release-android-15-1-ota-a-special-compatible-with-magisk-twrp-pbrp-and-orangefox-for-xiaomi-redmi-note-10-sunny.4717332/)
 
-- 🔧 **OTA Updates**: Receive seamless updates directly via over-the-air from our own secure servers (OTA).
-- 🔧 **Custom Patchsets**: Tailored security and performance enhancements for a better experience.
+- 🔄 **OTA Updates:** Enjoy seamless over-the-air updates directly from our secure servers, ensuring your device is always up to date.
+- ✅ **MicroG Verified Google Device:** This device has mostly passed the SafetyNet attestation from Google Play Services, ensuring compatibility and security for a seamless user experience.
+- ⚙️ **Custom Patchsets:** Benefit from tailored security and privacy patchsets designed to enhance both performance and user protection.
+- 📝 **Edit Configuration:** Users can easily modify the **Fortress64/fortress64-apk.config.txt** file to customize the default user and system apps. This configuration file can be reused with every fresh installation, providing a personalized setup.
 
-📦 **Included Removable Apps**
+## 📦 Included Removable Apps
 
-- 🔑 **AFWall** - Advanced firewall for enhanced security.
-- 🚫 **AdAway** - Powerful ad-blocker.
-- 🛍️ **Aurora Store** - An alternative to the Google Play Store that allows you to download apps anonymously.
-- 📦 **Neo Backup** - The open-source tool to backup your apps and data.
-- 🔑 **KeePassDX** - A password manager that helps you securely store and manage your passwords.
-- 🌐 **Ironfox** - Privacy-focused web browser.
-- 🗺️ **MicroG** - A free and open-source implementation of Google Play Services.
-- 🗺️ **Organic Maps** - An offline map application that respects your privacy.
-- 📷 **GrapheneOS Camera** - A secure camera app designed for GrapheneOS.
-- 🔊 **Google Text-to-Speech** - A speech synthesis tool that converts text into spoken words.
-- 🛡️ **WireGuard** - A cutting-edge VPN solution that offers a fast and secure method to safeguard your internet connection.
-- 💬 **Signal** - Encrypted messaging app.
-- 📂 **Material Design File Manager** - A modern file manager for Android with a clean and intuitive interface (Custom fork with Google Firebase logging disabled).
-- 🗝️ **DroidFS** - A user-friendly file system management tool that simplifies the process of encrypting your device's files for secure cloud storage.
-- 💻 **Termux** - A terminal emulator and Linux environment for Android.
-- 📧 **Thunderbird** - A free and open-source email client with robust features.
-- 🔑 **Magisk** - A tool for rooting Android devices and managing root permissions.
+- 🔒 **AFWall:** Advanced firewall for enhanced security.
+- 🛑 **AdAway:** Powerful ad-blocker.
+- 📲 **Aurora Store:** An alternative to the Google Play Store that allows you to download apps anonymously.
+- 💾 **Neo Backup:** Open-source tool to backup your apps and data.
+- 🗝️ **KeePassDX:** A password manager for securely storing and managing your passwords.
+- 🌍 **Ironfox:** Privacy-focused web browser.
+- 📡 **MicroG:** Free and open-source implementation of Google Play Services.
+- 🗺️ **Organic Maps:** Offline map application that respects your privacy.
+- 🛡️ **WireGuard:** Cutting-edge VPN solution for a fast and secure internet connection.
+- 📩 **Signal:** Encrypted messaging app.
+- 📁 **Fossify File Manager:** Modern file manager prioritizing user privacy and customization.
+- 🔐 **DroidFS:** User-friendly file system management tool for encrypting files for secure cloud storage.
+- 🖥️ **Termux:** Terminal emulator and Linux environment for Android.
+- 📬 **Thunderbird:** Free and open-source email client with robust features.
+- 🔓 **Magisk:** Tool for rooting Android devices and managing root permissions.
 
 ---
 
