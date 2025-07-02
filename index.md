@@ -21,7 +21,7 @@ Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All r
 
 ## 1. 📱 ROM Releases
 
-### 1.1 🌟 Key Features of CrDroid+ v11.6 | Android 15 | [XDA Thread](https://xdaforums.com/t/crdroid-v11-1-rom-release-android-15-1-ota-vanilla-special-compatible-with-magisk-twrp-pbrp-and-orangefox-for-xiaomi-redmi-note-10-sunny.4717327/)
+### 1.1 🌟 Key Features of CrDroid+ v11.6 | Android 15 | [XDA Thread](https://xdaforums.com/t/crdroid-v11-6-rom-unofficial-android-15-microg-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-01-juli-2025.4717327/)
 
 - 🔄 **OTA Updates:** Enjoy seamless over-the-air updates directly from our secure servers, ensuring your device is always up to date.
 - ✅ **MicroG Verified Google Device:** This device has successfully passed Google Play Services' SafetyNet attestation, guaranteeing compatibility and security for a smooth user experience.
@@ -52,7 +52,7 @@ Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All r
 
 ---
 
-### 1.2 🌟 Key Features of LineageOS+ v22.2 | Android 15 | [XDA Thread](https://xdaforums.com/t/lineageos-v22-1-rom-release-android-15-1-ota-a-special-compatible-with-magisk-twrp-pbrp-and-orangefox-for-xiaomi-redmi-note-10-sunny.4717332/)
+### 1.2 🌟 Key Features of LineageOS+ v22.2 | Android 15 | [XDA Thread](https://xdaforums.com/t/lineageos-v22-2-rom-unofficial-android-15-microg-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-01-juli-2025.4717332/)
 
 - 🔄 **OTA Updates:** Enjoy seamless over-the-air updates directly from our secure servers, ensuring your device is always up to date.
 - ✅ **MicroG Verified Google Device:** This device has mostly passed the SafetyNet attestation from Google Play Services, ensuring compatibility and security for a seamless user experience.
@@ -83,7 +83,7 @@ Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All r
 
 ---
 
-### 1.3.🌟 Key Features of e/OS e-2.8-u | Android 14 | [XDA Thread](https://xdaforums.com/t/e-os-e-2-8-u-rom-release-android-14-ota-a-special-compatible-with-magisk-twrp-pbrp-and-orangefox-for-xiaomi-redmi-note-10-sunny.4717275/) | **DEVELOPMENT DISCONTINUED**
+### 1.3.🌟 Key Features of e/OS e-2.8-u | Android 14 | [XDA Thread](https://xdaforums.com/t/discontinued-e-os-e-2-8-u-rom-unofficial-android-14-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-06-feb-2025.4717275/) | **DEVELOPMENT DISCONTINUED**
 
    - 🔧 OTA Updates: Receive seamless updates directly via over-the-air from our own secure servers (OTA).
 
@@ -104,7 +104,7 @@ Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All r
 
 ---
 
-### 1.4.🌟 Key Features of LMODroid 6.0 | Android 14 | [XDA Thread](https://xdaforums.com/t/lmodroid-v6-0-rom-release-android-14-ota-a-special-compatible-with-magisk-twrp-pbrp-and-orangefox-for-xiaomi-redmi-note-10-sunny.4717140/) | **DEVELOPMENT DISCONTINUED**
+### 1.4.🌟 Key Features of LMODroid 6.0 | Android 14 | [XDA Thread](https://xdaforums.com/t/discontinued-lmodroid-v6-0-rom-unofficial-android-14-ota-magisk-twrp-pbrp-orangefox-xiaomi-redmi-note-10-sunny-mojito-06-feb-2025.4717140/) | **DEVELOPMENT DISCONTINUED**
 
    - 🔧 OTA Updates: Receive seamless updates directly via over-the-air from our own secure servers (OTA).
 
@@ -125,7 +125,7 @@ Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All r
 
 ---
 
-## 2. 🔧 Recovery Options [XDA Thread](https://xdaforums.com/t/multiple-custom-recoveries-xiaomi-redmi-note-10-sunny-mojito-twrp-3-7-1-orangefox-12-1-pbrp-4-0-date-02-03-2025.4721961/)
+## 2. 🔧 Recovery Options [XDA Thread](https://xdaforums.com/t/multiple-custom-recoveries-unofficial-xiaomi-redmi-note-10-sunny-mojito-twrp-orangefox-pbrp-02-juli-2025.4721961/)
 
 ---
 
