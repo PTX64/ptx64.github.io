@@ -9,7 +9,7 @@ callouts: callouts
 ---
 
 
-Stay informed and protect your digital privacy with the best custom ROMs and recovery solutions available.
+Stay informed and protect your digital privacy with the best custom ROMs and recovery solutions available. 
 
 # Software ROM Releases for the Xiaomi Redmi Note 10 (Sunny/Mojito)
 
