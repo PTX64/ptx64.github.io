@@ -2,7 +2,7 @@ style: is-light
 height: is-medium
 items:
   - title: crDroid+ v11.6 | Android 15
-    subtitle: Released on July 1, 2025.
+    subtitle: Released on July 2, 2025.
     icon: fa-shield-alt
     description: >
       Enjoy the latest features and improvements with crDroid+ v11.6.
@@ -10,7 +10,7 @@ items:
     call_to_action_link: https://github.com/PTX64/releases_sunny_crdroid/releases/tag/latest
     
   - title: LineageOS+ 22.2 | Android 15
-    subtitle: Released on July 1, 2025.
+    subtitle: Released on July 2, 2025.
     icon: fa-shield-alt
     description: >
       Experience a clean and customizable Android experience with LineageOS+ 22.2.
