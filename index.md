@@ -152,7 +152,124 @@ Welcome to the ROM repository for the Xiaomi Redmi Note 10 (Sunny/Mojito). All r
 
 ---
 
-## 3. [🚀 First-Time Flashing Instructions](https://github.com/PTX64/releases/blob/15.1/README_Installation.md)
+## 3. 🚀 First-Time Flashing Instructions for Xiaomi Redmi Note 10 (Sunny/Mojito)
+
+**⚠ Disclaimer:** Flashing a custom ROM carries risks, including data loss, boot loops, or bricked devices. Follow these instructions carefully. By proceeding, you acknowledge that any issues arising from improper flashing are your responsibility.
+
+---
+
+## 📌 Preparation Steps
+
+### 1. Backup Your Data
+Before proceeding, create a complete backup of your device. Flashing for the first time will erase all data and restore factory defaults.
+
+### 2. Download and Flash Stock Firmware
+- Download the latest firmware ([V14.0.9.0.SKGMIXM](https://mifirm.net/download/12791)).
+- Extract the downloaded firmware package.
+
+### 3. Enter Fastboot Mode
+1. Power off your device.
+2. Hold **Volume Down + Power** simultaneously to enter Fastboot mode.
+
+### 4. Connect and Flash Stock Firmware
+1. Connect your device to a PC via USB-C.
+2. Open a terminal or command prompt.
+3. Navigate to the extracted firmware folder and run:
+   - **Windows:** `flash_all.bat`
+   - **Linux/macOS:** `flash_all.sh`
+
+### 5. Verify and Boot
+- Ensure the flashing process completes with a "Success" message.
+- If it fails, repeat Step 4 or force reboot by holding the Power button.
+- Wait for the **MIUI** setup screen to appear after a successful flash.
+- **Complete the MIUI setup** until the home screen is fully loaded, thereby finishing the MIUI post-installation process.
+
+---
+
+## 🔧 Flashing a custom ROM for the first time
+
+### 6. Flash Custom ROM
+1. Download your desired ROM, its 'boot.img' and 'vendor_boot.img' files
+2. Re-enter Fastboot mode (see Step 3).
+3. Open a terminal or command prompt.
+4. Flash the recovery image using:
+   - `fastboot flash boot boot.img`
+   - `fastboot flash vendor_boot vendor_boot.img`
+   - `fastboot reboot recovery`
+5. In recovery mode:
+   - Navigate using **Volume buttons** and confirm with the **Power** button.
+   - Select **Apply Update > Apply from ADB**.
+6. Flash the ROM:
+   - `adb sideload your_rom.zip`
+7. Once flashing is complete, restart recovery when prompted.
+
+### 7. Factory Reset, Boot and Updating ROM
+1. **Perform a factory reset in the custom recovery:**
+   - Navigate to **Factory Reset** and confirm the action twice.
+2. **Reboot your device** to load the new ROM.
+3. **Flashing or updating a ROM** can now be done using the Updater app, or by rebooting the device into recovery mode and flashing a new ZIP image.
+
+---
+
+## 🔓 Optional: Root Access & Custom Recovery
+
+### 8. Install Magisk (Root) and/or Custom Recovery
+1. Download **Magisk** from [GitHub](https://github.com/topjohnwu/Magisk) and/or the **TWRP (Team Win Recovery Project)**, **PBRP (Pitch Black Recovery Project)**, or  **OrangeFox Recovery** custom recovery from [this location](https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest).
+2. **Disable your screen lock or set it to "swipe."** Otherwise, the custom recovery may be unable to decrypt your data partition.
+3. Boot into recovery mode and install the custom recovery first (if required):
+   - `adb sideload your_custom_recovery.zip`
+4. Flash Magisk:
+   - `adb sideload Magisk-version.apk`
+   -  In TWRP and PBRP recovery, navigate to the /Magisk/Magisk.zip file and proceed to flash the zip. Additionally, OrangeFox features the latest Magisk support integrated directly into its user interface.
+5. Reboot and complete Magisk setup in the app.
+
+---
+
+## 🏪 Play Store & Alternative App Stores
+
+### 9. Aurora Store / MicroG / MindTheGapps / Play Store Support
+
+1. **Default App Stores by ROM:**
+   - **CrDroid:** Aurora Store / FDroid / MicroG
+   - **LineageOS:** Aurora Store / FDroid / MicroG
+   - **E/OS:** Aurora Store, App Lounge, MicroG
+   - **LMODroid:** Aurora Store
+
+2. **MindTheGapps Support:**
+   - Please note that GApps support is not included by default. However, in most cases, you can rely on MicroG as an alternative.
+
+3. **MindTheGapps Installation:**
+   - Download for **CrDroid/LineageOS**: [ARM64](https://mindthegapps.com/#MindTheGapps-for-Android-15-LineageOS-22)
+   - Download for **E/OS & LMODroid**: [ARM64](https://mindthegapps.com/#MindTheGapps-for-Android-14-LineageOS-21)
+   - Flash the .zip files using the recovery mode.
+
+---
+
+## ⚠️ Common Issues & Fixes
+
+### 1. Black Screen After Booting Custom Recovery
+- **Cause:** The ROM uses `vendor_boot`, which can cause issues with custom recoveries.
+- **Solution:** 
+  1. Use a ROM that supports non-`vendor_boot` recoveries.
+  2. Ensure you flash both the `boot` and `vendor_boot` images correctly.
+
+### 2. Screen Hangs in Custom Recovery
+- **Cause:** The recovery may not support encryption, or the data partition may be corrupted.
+
+#### Action 1: Disable Screen Lock
+- **Solution:** Disable your screen lock for better compatibility.
+
+#### Action 2: Perform Factory Reset or Use a Compatible Recovery
+- **Solution:** If the issue persists, perform a factory reset or switch to a recovery that supports decryption.
+
+### 3. Touchscreen/Sideloading Not Working in Recovery
+- **Cause:** An outdated ROM or firmware may have loaded old vendor firmware.
+- **Solution:** Flash the latest ROM to update the vendor partition.
+
+---
+
+✅ **You're all set!** Enjoy your new custom ROM!
+
 
 ---
 
