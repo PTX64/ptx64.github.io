@@ -54,7 +54,7 @@ items:
     icon: fa-shield-alt
     description: >
       Experience a clean and customizable Android experience with LineageOS+ 22.2.
-    call_to_action_name:  Experience a clean and customizable Android experience with LineageOS+ 20.0.
+    call_to_action_name: Download LineageOS+ 20.0
     call_to_action_link: https://github.com/PTX64/releases_n1awifi_lineageos/releases/tag/latest
     
   - title: TWRP 3.7.0 | Samsung Galaxy Note 10.1 (2014 Edition) 
