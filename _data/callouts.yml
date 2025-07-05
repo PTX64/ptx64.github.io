@@ -49,7 +49,6 @@ items:
     call_to_action_name: Download the Android Live Recovery USB image
     call_to_action_link: https://github.com/PTX64/releases_android_live_recovery_usb/releases/tag/latest
 
-
   - title: LineageOS-UL v20.0 | Android 13 | Samsung Galaxy Note 10.1 (2014 Edition) 
     subtitle: Released on July 5, 2025.
     icon: fa-shield-alt
