@@ -34,7 +34,7 @@ items:
     call_to_action_link: https://github.com/PTX64/releases_sunny_lmodroid/releases/tag/latest
 
   - title: TWRP 3.7.1 | OrangeFox 11.3 | PBRP 4.0
-    subtitle: Released on July 2, 2025.
+    subtitle: Released on July 10, 2025.
     icon: fa-tools
     description: >
       Custom recoveries for advanced users looking to modify their devices.
