@@ -12,4 +12,4 @@ theme_color: '#dddddd'
 force_theme: light
 
 menubar: menu
-show_sidebar: true
+show_sidebar: false
