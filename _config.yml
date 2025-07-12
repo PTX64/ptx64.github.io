@@ -10,6 +10,3 @@ permalink: pretty
 fixed_navbar: top
 theme_color: '#dddddd'
 force_theme: light
-
-show_sidebar: false
-menubar: menu
