@@ -1,4 +1,6 @@
-### Install Magisk (Root) and/or Custom Recovery
+## 🔓 Optional: Root Access & Custom Recovery
+
+### 8. Install Magisk (Root) and/or Custom Recovery
 1. Download **Magisk** from [GitHub](https://github.com/topjohnwu/Magisk) and/or the **TWRP (Team Win Recovery Project)**, **PBRP (Pitch Black Recovery Project)**, or  **OrangeFox Recovery** custom recovery from [this location](https://github.com/PTX64/releases_sunny_recoveries/releases/tag/latest).
 2. **Disable your screen lock or set it to "swipe."** Otherwise, the custom recovery may be unable to decrypt your data partition.
 3. Boot into recovery mode and install the custom recovery first (if required):
