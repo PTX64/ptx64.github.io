@@ -1,1 +1,26 @@
+style: is-light
+height: is-medium
+items:
+  - title: crDroid+ v11.6 | Android 15
+    subtitle: Released on July 12, 2025.
+    icon: fa-shield-alt
+    description: >
+      Enjoy the latest features and improvements with crDroid+ v11.6.
+    call_to_action_name: Download crDroid+ v11.6
+    call_to_action_link: https://github.com/PTX64/releases_spes_crdroid/releases/tag/latest
+    
+  - title: LineageOS+ 22.2 | Android 15
+    subtitle: Released on July 12, 2025.
+    icon: fa-shield-alt
+    description: >
+      Experience a clean and customizable Android experience with LineageOS+ 22.2.
+    call_to_action_name: Download LineageOS+ 22.2
+    call_to_action_link: https://github.com/PTX64/releases_spes_lineageos/releases/tag/latest
 
+  - title: TWRP 3.7.1 | OrangeFox 11.3 | PBRP 4.0
+    subtitle: Released on July 10, 2025.
+    icon: fa-tools
+    description: >
+      Custom recoveries for advanced users looking to modify their devices.
+    call_to_action_name: Download Custom Recoveries
+    call_to_action_link: https://github.com/PTX64/releases_spes_recoveries/releases/tag/latest
