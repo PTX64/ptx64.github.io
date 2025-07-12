@@ -11,3 +11,4 @@ fixed_navbar: top
 theme_color: '#dddddd'
 force_theme: light
 
+menubar: menu
