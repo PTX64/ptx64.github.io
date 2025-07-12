@@ -1,1 +1,19 @@
 
+style: is-light
+height: is-medium
+items:
+  - title: LineageOS-UL v20.0 | Android 13 | Samsung Galaxy Note 10.1 (2014 Edition) 
+    subtitle: Released on July 5, 2025.
+    icon: fa-shield-alt
+    description: >
+      Experience a clean and customizable Android experience with LineageOS+ 22.2.
+    call_to_action_name: Download LineageOS+ 20.0
+    call_to_action_link: https://github.com/PTX64/releases_n1awifi_lineageos/releases/tag/latest
+    
+  - title: TWRP 3.7.0 | Samsung Galaxy Note 10.1 (2014 Edition) 
+    subtitle: Released on July 5, 2025.
+    icon: fa-tools
+    description: >
+      Custom TWRP recovery for advanced users looking to modify their devices.
+    call_to_action_name: Download TWRP Custom Recovery
+    call_to_action_link: https://github.com/PTX64/releases_n1awifi_recovery/releases/tag/latest
