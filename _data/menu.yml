@@ -15,5 +15,5 @@
           link: /rescue/
     - name: Manuals
       link: /installation/
-      
-
+    - name: Credits
+      link: /credits/
