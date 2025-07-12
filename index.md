@@ -1,5 +1,6 @@
 ---
 layout: page
-title: My Image Gallery
+title: Fortress64 - Securing Your Digital Privacy
+subtitle: Our latest software releases
 gallery: devices_gallery.yml
 ---
