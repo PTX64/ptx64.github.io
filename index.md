@@ -1,24 +1,19 @@
----
-layout: page
-title: Fortress64 - Securing Your Digital Privacy
-subtitle: Latest Releases for Xiaomi Redmi Note 10
-callouts: sunny
----
-layout: page
-title: Fortress64 - Securing Your Digital Privacy
-subtitle: Latest Releases for Xiaomi Redmi Note 10, Samsung Galaxy Note 10.1 2014 and the Android Live Recovery USB
-callouts: spes
----
-layout: page
-title: Fortress64 - Securing Your Digital Privacy
-subtitle: Latest Releases for Xiaomi Redmi Note 10, Samsung Galaxy Note 10.1 2014 and the Android Live Recovery USB
-callouts: n1awifi
----
-layout: page
-title: Fortress64 - Securing Your Digital Privacy
-subtitle: Latest Releases for Xiaomi Redmi Note 10, Samsung Galaxy Note 10.1 2014 and the Android Live Recovery USB
-callouts: rescue
----
+
+
+- title: Image Gallery Title
+  images:
+    - link: https://via.placeholder.com/800x450
+      large_link: https://via.placeholder.com/1200x675
+      alt: The alt text for the image
+      description: |-
+        The image description can be written in **markdown** if required
+      ratio: is-16by9
+    - link: https://via.placeholder.com/800x600
+      large_link: https://via.placeholder.com/1200x900
+      alt: The alt text for the image
+      description: The image description
+      ratio: is-4by3
+
 
 
 Stay informed and protect your digital privacy with the best custom ROMs and recovery solutions available. 
