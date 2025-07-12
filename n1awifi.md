@@ -1,6 +1,6 @@
 ---
 layout: page
 title: Fortress64 - Securing Your Digital Privacy
-subtitle: Latest Releases for Xiaomi Redmi Note 11
-callouts: spes
+subtitle: Latest software releases for Samsung Galaxy Note 10.1 2014 Edition (n1awifi)
+callouts: n1awifi
 ---
