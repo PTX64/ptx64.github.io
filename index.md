@@ -6,9 +6,7 @@ description: >
   Discover the latest releases of crDroid, LineageOS, e/OS, LMODroid, TWRP, Orange Fox, Pitch Black Recovery and the Android Live Recovery USB.
   Load custom ROMs or restore your device using the Android Recovery Live USB, we have everything you need.
 callouts: sunny
----
 
----
 layout: page
 title: Fortress64 - Securing Your Digital Privacy
 subtitle: Latest Releases for Xiaomi Redmi Note 10, Samsung Galaxy Note 10.1 2014 and the Android Live Recovery USB
@@ -16,9 +14,7 @@ description: >
   Discover the latest releases of crDroid, LineageOS, e/OS, LMODroid, TWRP, Orange Fox, Pitch Black Recovery and the Android Live Recovery USB.
   Load custom ROMs or restore your device using the Android Recovery Live USB, we have everything you need.
 callouts: spes
----
 
----
 layout: page
 title: Fortress64 - Securing Your Digital Privacy
 subtitle: Latest Releases for Xiaomi Redmi Note 10, Samsung Galaxy Note 10.1 2014 and the Android Live Recovery USB
@@ -26,9 +22,7 @@ description: >
   Discover the latest releases of crDroid, LineageOS, e/OS, LMODroid, TWRP, Orange Fox, Pitch Black Recovery and the Android Live Recovery USB.
   Load custom ROMs or restore your device using the Android Recovery Live USB, we have everything you need.
 callouts: n1awifi
----
 
----
 layout: page
 title: Fortress64 - Securing Your Digital Privacy
 subtitle: Latest Releases for Xiaomi Redmi Note 10, Samsung Galaxy Note 10.1 2014 and the Android Live Recovery USB
