@@ -1,3 +1,9 @@
+---
+layout: page
+title: Fortress64 - Securing Your Digital Privacy
+menubar: menu
+---
+
 ## 🎉 Credits:​
 A huge thanks to our dedicated small team of seasoned Linux/GNU enthusiasts and others who made this release possible for this device:
 
