@@ -2,15 +2,17 @@
   items:
     - name: Home
       link: /
-    - name: Pages
+    - name: Devices
       link: #
       items:
-        - name: Page With Sidebar 
-          link: /page-1/
-        - name: Page Without Sidebar
-          link: /page-2/
-        - name: Page With Menubar
-          link: /page-3/
-    - name: Blog
-      link: /blog/
+        - name: Xiaomi Redmi Note 10 (Sunny/Mojito)
+          link: /sunny/
+        - name: Xiaomi Redmi Note 11 (Spes/Spesn)
+          link: /spes/
+        - name: Samsung Galaxy Note 10.1 2014 Edition (n1awifi)
+          link: /n1awifi/
+        - name: Android Live Recovery USB software
+          link: /rescue/
+    - name: Manuals
+      link: /installation/
 
