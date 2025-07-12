@@ -1,10 +1,13 @@
 ---
+menubar: menu
+---
+
+---
 
 ## 🚀 First-Time Flashing Instructions for Xiaomi Redmi Note 10 (Sunny/Mojito) and 11 (Spes/Spesn)
 
 **⚠ Disclaimer:** Flashing a custom ROM carries risks, including data loss, boot loops, or bricked devices. Follow these instructions carefully. By proceeding, you acknowledge that any issues arising from improper flashing are your responsibility.
 
----
 
 ## 📌 Preparation Steps
 
