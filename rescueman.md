@@ -6,3 +6,5 @@ subtitle: Latest Android Live Recovery USB software releases
 callouts: rescueman
 ---
 
+🚀 The EDL device-recovery manual is coming soon — we’re reorganizing the website.  
+Check back shortly for the full guide.
