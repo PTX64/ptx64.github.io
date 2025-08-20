@@ -3,9 +3,10 @@ style: is-light
 height: is-medium
 items:
   - title: Android Live Recovery USB
-    subtitle: Released on May 12, 2025.
+    subtitle: Released on August 20, 2025.
     icon: fa-tools
     description: >
-      The Android Live Recovery USB is a powerful tool tailored for Xiaomi Android users. This image encompasses essential features for device recovery and management, making it an invaluable resource for anyone looking to de-brick their Xiaomi devices or perform advanced operations.
+      A compact, bootable toolkit for safely de‑bricking and managing Xiaomi, Motorola, OnePlus, Samsung and other Android devices without modifying the host system.
+      Optimized for EDL‑based recovery and bundled with tools for general maintenance, ROM flashing, and firmware restoration.
     call_to_action_name: Download the Android Live Recovery USB image
     call_to_action_link: https://github.com/PTX64/releases_android_live_recovery_usb/releases/tag/latest
