@@ -34,7 +34,7 @@ The `dmesg` command should report something like 'Qualcomm HS-USB QDLoader 9008'
 8. Since it is a serial connection, the process may take a long time to complete. Reboot the device afterward and check if it works.
 9. It is recommended to reflash the official firmware with Fastboot afterward to ensure stability.
 
-We welcome contributions to this project! If you would like to help, please feel free to submit issues or pull requests. Your feedback and contributions are greatly appreciated. You can share your thoughts in the temporary topic: [I Hard Bricked My Redmi Note 10](https://xdaforums.com/t/sos-i-hard-bricked-my-redmi-note-10.4667437/page-2#post-90074747).
+We welcome contributions to this project! If you would like to help, please feel free to submit issues or pull requests. Your feedback and contributions are greatly appreciated. You can share your thoughts in the topic: [Android Live Recovery USB](https://xdaforums.com/t/android-live-recovery-usb-bootable-toolkit-for-flashing-recovering-and-de-bricking-xiaomi-motorola-oneplus-and-samsung-devices-20-august-2025.4755466/).
 # Supported and Verified Xiaomi Devices
 - **sunny/mojito**: Xiaomi Redmi Note 10  
 - **spes/spesn**: Xiaomi Redmi Note 11  
