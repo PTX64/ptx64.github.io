@@ -3,11 +3,8 @@ layout: page
 title: Fortress64 - Securing Your Digital Privacy
 menubar: menu
 ---
-## Usage
 
-1. **Create a Live USB**: Use a tool like `dd`, Rufus, or Etcher to write the `Android Live Recovery USB` image to a USB drive.
-2. **Boot from USB**: Insert the USB drive into your computer and boot from it. You may need to adjust your BIOS/UEFI settings to enable USB booting.
-3. **Access Recovery Tools**: Once booted, you will have access to the recovery tools and desktop applications included in the image.
+## This manual is still under development, and some instructions may be incomplete or missing.
 
 ### Example EDL Usage for the Redmi Note 10:
 
