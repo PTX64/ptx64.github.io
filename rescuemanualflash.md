@@ -3,7 +3,7 @@ layout: page
 title: Fortress64 - Securing Your Digital Privacy
 menubar: menu
 ---
-This guide shows how to flash an "Android Live Recovery USB" ISO to a USB drive using balenaEtcher (cross‑platform), Rufus (Windows), and dd (Linux/macOS), and how to boot from it. Follow only the section relevant to your OS/tool.
+This guide shows how to flash the "Android Live Recovery USB" ISO to a USB drive using balenaEtcher (cross‑platform), Rufus (Windows), and dd (Linux/macOS), and how to boot from it. Follow only the section relevant to your OS/tool.
 
 Prerequisites
 - Download the Android Live Recovery ISO from its official source and optionally verify the checksum.
@@ -51,11 +51,11 @@ Warning: dd will overwrite the selected device. Confirm device path before runni
 3. Write image with dd  
    - Linux example:
      ```
-     sudo dd if=/path/to/android-live-recovery.iso of=/dev/sdX bs=4M status=progress conv=fsync
+     sudo dd if=/path/to/Android_Live_Recovery_USB-*.iso of=/dev/sdX bs=4M status=progress conv=fsync
      ```
    - macOS example:
      ```
-     sudo dd if=/path/to/android-live-recovery.iso of=/dev/rdiskN bs=1m status=progress
+     sudo dd if=/path/to/Android_Live_Recovery_USB-*.iso of=/dev/rdiskN bs=1m status=progress
      ```
    - Replace device path with the whole-device (not a partition like /dev/sdX1).
 4. Flush caches and eject  
