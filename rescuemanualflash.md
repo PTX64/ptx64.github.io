@@ -80,7 +80,7 @@ Warning: dd will overwrite the selected device. Confirm device path before runni
    - Set USB/UEFI USB first in boot order. If Secure Boot prevents booting, disable Secure Boot temporarily.
 5. UEFI vs Legacy  
    - For UEFI choose the UEFI USB entry. For legacy/CSM choose the legacy USB entry and ensure the USB was written with a compatible partition scheme (GPT for UEFI, MBR for legacy).
-6. Boot the Android Live Recovery environment from the menu and proceed with recovery or installation steps provided by the live system.
+6. Boot the Android Live Recovery environment from the menu and proceed.
 
 ## Notes
 - These methods produce a live USB without persistent storage unless the Android Live Recovery image explicitly supports persistence.  
