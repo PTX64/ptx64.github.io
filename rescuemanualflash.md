@@ -83,7 +83,7 @@ Warning: dd will overwrite the selected device. Confirm device path before runni
 6. Boot the Android Live Recovery environment from the menu and proceed.
 
 ## Notes
-- These methods produce a live USB without persistent storage. For instructions on creating a persistent USB for the Android Live Recovery USB in Windows and Linux, please visit [this guide](https://itsfoss.com/ubuntu-persistent-live-usb/). However, please note that the persistent version is unfortunately much slower compared to the non-persistent version.
+- These methods produce a live USB without persistent storage.
 - If the system won’t boot, try switching Rufus to DD mode or use balenaEtcher which handles most hybrid ISOs automatically.  
 - If unsure which tool to use: balenaEtcher is simplest; Rufus gives advanced Windows options; dd is for command‑line users.
 
