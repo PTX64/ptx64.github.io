@@ -30,9 +30,7 @@ Prerequisites
 3. Configure Rufus  
    - Device: select your USB drive.  
    - Boot selection: click SELECT and choose the Android Live Recovery .iso.  
-   - Partition scheme:  
-     - For modern UEFI systems: GPT.  
-     - For older BIOS/legacy: MBR.  
+   - Partition scheme: leave default (Rufus will suggest GPT).
    - File system: leave default (Rufus will suggest FAT32/NTFS).  
 4. Start  
    - Click START. If prompted to choose ISO or DD mode, use the default (try DD mode if boot issues occur).  
@@ -79,7 +77,7 @@ Warning: dd will overwrite the selected device. Confirm device path before runni
 4. BIOS/UEFI alternative  
    - Set USB/UEFI USB first in boot order. If Secure Boot prevents booting, disable Secure Boot temporarily.
 5. UEFI vs Legacy  
-   - For UEFI choose the UEFI USB entry. For legacy/CSM choose the legacy USB entry and ensure the USB was written with a compatible partition scheme (GPT for UEFI, MBR for legacy).
+   - For UEFI choose the UEFI USB entry. For legacy/CSM choose the legacy USB entry.
 6. Boot the Android Live Recovery environment from the menu and proceed.
 
 ## Notes
