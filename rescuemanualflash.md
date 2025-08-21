@@ -12,7 +12,7 @@ Prerequisites
 
 ## balenaEtcher (Windows, macOS, Linux)
 1. Download & install  
-   - Get balenaEtcher from balena.io and install it.
+   - Get balenaEtcher from [balena.io](https://etcher.balena.io/) and install it.
 2. Open Etcher.
 3. Select image  
    - Click “Flash from file” and choose the Android Live Recovery .iso.
@@ -25,7 +25,7 @@ Prerequisites
 
 ## Rufus (Windows)
 1. Download & run  
-   - Download Rufus from rufus.ie. Run the executable (no install).
+   - Download Rufus from [rufus.ie](https://rufus.ie/en/). Run the executable (no install).
 2. Insert USB.
 3. Configure Rufus  
    - Device: select your USB drive.  
