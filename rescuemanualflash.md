@@ -6,7 +6,7 @@ menubar: menu
 This guide shows how to flash the "Android Live Recovery USB" ISO to a USB drive using balenaEtcher (cross‑platform), Rufus (Windows), and dd (Linux/macOS), and how to boot from it. Follow only the section relevant to your OS/tool.
 
 Prerequisites
-- Download the Android Live Recovery ISO from its official source and optionally verify the checksum.
+- Download the Android Live Recovery ISO and optionally verify the checksum.
 - USB flash drive ≥4 GB. Back up any data — flashing erases the drive.
 - On Windows run tools as Administrator. On Linux/macOS you may need sudo/root.
 
