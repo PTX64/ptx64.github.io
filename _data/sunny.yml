@@ -2,20 +2,20 @@
 style: is-light
 height: is-medium
 items:
-  - title: crDroid+ v11.6 | Android 15
-    subtitle: Released on July 2, 2025.
+  - title: crDroid+ v11.6 | Android 16
+    subtitle: Released on October 16, 2025.
     icon: fa-shield-alt
     description: >
       Enjoy the latest features and improvements with crDroid+ v11.6.
-    call_to_action_name: Download crDroid+ v11.6
+    call_to_action_name: Download crDroid+ v12.2
     call_to_action_link: https://github.com/PTX64/releases_sunny_crdroid/releases/tag/latest
     
-  - title: LineageOS+ 22.2 | Android 15
-    subtitle: Released on July 2, 2025.
+  - title: LineageOS+ 22.2 | Android 16
+    subtitle: Released on October 16, 2025.
     icon: fa-shield-alt
     description: >
       Experience a clean and customizable Android experience with LineageOS+ 22.2.
-    call_to_action_name: Download LineageOS+ 22.2
+    call_to_action_name: Download LineageOS+ 23.0
     call_to_action_link: https://github.com/PTX64/releases_sunny_lineageos/releases/tag/latest
     
   - title: e/OS e-2.8-u | Android 14
