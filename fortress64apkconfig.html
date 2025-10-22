@@ -1,0 +1,365 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Package Configuration</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+        }
+        label {
+            display: block;
+            margin: 10px 0;
+        }
+        button {
+            margin-top: 20px;
+        }
+        pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Package Installation Configuration</h1>
+    <form id="packageForm">
+        <h2>User installed packages</h2>
+        <label>AdAway: 
+            <select name="org.adaway">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Aurora Store: 
+            <select name="com.aurora.store">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>DroidFS: 
+            <select name="sushi.hardcore.droidfs">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>IronFox: 
+            <select name="org.ironfoxoss.ironfox">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>KeePass (Free): 
+            <select name="com.kunzisoft.keepass.free">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Magisk: 
+            <select name="com.topjohnwu.magisk">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Neobackup: 
+            <select name="com.machiav3lli.backup">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Organic Maps: 
+            <select name="app.organicmaps">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Signal (Secure SMS): 
+            <select name="org.thoughtcrime.securesms">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Termux: 
+            <select name="com.termux">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Thunderbird: 
+            <select name="net.thunderbird.android">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>UFW Firewall: 
+            <select name="dev.ukanth.ufirewall.donate">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>WireGuard: 
+            <select name="com.wireguard.android">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Fossify File Manager: 
+            <select name="org.fossify.filemanager">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+
+        <h2>System installed packages</h2>
+        <label>Aperture Camera: 
+            <select name="org.lineageos.aperture">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>AOSP Sense: 
+            <select name="co.aospa.sense">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android BIPS: 
+            <select name="com.android.bips">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android Bookmark Provider: 
+            <select name="com.android.bookmarkprovider">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android Calculator: 
+            <select name="com.android.calculator2">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android Device Diagnostics: 
+            <select name="com.android.devicediagnostics">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android Dreams Basic: 
+            <select name="com.android.dreams.basic">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android Dreams Photo Table: 
+            <select name="com.android.dreams.phototable">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android Gallery 3D: 
+            <select name="com.android.gallery3d">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android Print Service Recommendation: 
+            <select name="com.android.printservice.recommendation">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android Print Spooler: 
+            <select name="com.android.printspooler">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android Providers Calendar: 
+            <select name="com.android.providers.calendar">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>Android Providers User Dictionary: 
+            <select name="com.android.providers.userdictionary">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>CAF FM Radio: 
+            <select name="com.caf.fmradio">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>MicroG Google Play Services: 
+            <select name="com.google.android.gms">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>MicroG Google Play Store: 
+            <select name="com.android.vending">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>MicroG Google Services Framework: 
+            <select name="com.google.android.gsf">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>F-Droid: 
+            <select name="org.fdroid.fdroid">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>F-Droid Privileged Extension: 
+            <select name="org.fdroid.fdroid.privileged">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>LineageOS AudioFX: 
+            <select name="org.lineageos.audiofx">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>LineageOS Camelot: 
+            <select name="org.lineageos.camelot">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>LineageOS Etar: 
+            <select name="org.lineageos.etar">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>LineageOS Glimpse: 
+            <select name="org.lineageos.glimpse">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>LineageOS Recorder: 
+            <select name="org.lineageos.recorder">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>LineageOS Twelve: 
+            <select name="org.lineageos.twelve">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>GameSpace: 
+            <select name="io.chaldeaprjkt.gamespace">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>SeedVault: 
+            <select name="com.stevesoltys.seedvault">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+        <label>OmniROM Logcat: 
+            <select name="org.omnirom.logcat">
+                <option value="1">Install</option>
+                <option value="0">Remove</option>
+            </select>
+        </label>
+
+        <button type="button" onclick="generateOutput()">Generate Output</button>
+    </form>
+
+    <h2>Output</h2>
+    <pre id="output"></pre>
+
+    <script>
+        function generateOutput() {
+            const form = document.getElementById('packageForm');
+
+            let output = "# Please copy this entire generated result into the file Fortress64/fortress64-apk-config.txt in your internal storage.\n";
+            output += "# After that, create a new file in this directory named update and reboot your phone.\n";
+            output += "# Note: Some apps may remain visible until the next reboot after the modifications have been applied.\n\n";
+
+            output += "# Caution: Disabling system packages can lead to unwanted complications. If you plan to completely remove MicroG to install Mind the GApps (currently unsupported), be sure to disable the following components:\n";
+            output += "# - MicroG Google Play Services\n";
+            output += "# - MicroG Google Play Store\n";
+            output += "# - MicroG Google Services Framework\n";
+            output += "# Please proceed carefully to avoid issues.\n\n";
+
+            output += "### User installed packages\n";
+            const userPackages = [
+                "org.adaway",
+                "com.aurora.store",
+                "sushi.hardcore.droidfs",
+                "org.ironfoxoss.ironfox",
+                "com.kunzisoft.keepass.free",
+                "com.topjohnwu.magisk",
+                "com.machiav3lli.backup",
+                "app.organicmaps",
+                "org.thoughtcrime.securesms",
+                "com.termux",
+                "net.thunderbird.android",
+                "dev.ukanth.ufirewall.donate",
+                "com.wireguard.android",
+                "org.fossify.filemanager"
+            ];
+
+            userPackages.forEach(item => {
+                output += `user:${item} = ${form[item].value}\n`;
+            });
+
+            output += "\n### System installed packages\n";
+            const systemPackages = [
+                "org.lineageos.aperture:/product/app/Aperture/Aperture.apk",
+                "co.aospa.sense:/system_ext/priv-app/FaceUnlock/FaceUnlock.apk",
+                "com.android.bips:/system/priv-app/BuiltInPrintService/BuiltInPrintService.apk",
+                "com.android.bookmarkprovider:/system/app/BookmarkProvider/BookmarkProvider.apk",
+                "com.android.calculator2:/product/app/ExactCalculator/ExactCalculator.apk",
+                "com.android.devicediagnostics:/system/priv-app/DeviceDiagnostics/DeviceDiagnostics.apk",
+                "com.android.dreams.basic:/system/app/BasicDreams/BasicDreams.apk",
+                "com.android.dreams.phototable:/product/app/PhotoTable/PhotoTable.apk",
+                "com.android.gallery3d:/product/app/Gallery2/Gallery2.apk",
+                "com.android.printservice.recommendation:/system/app/PrintRecommendationService/PrintRecommendationService.apk",
+                "com.android.printspooler:/system/app/PrintSpooler/PrintSpooler.apk",
+                "com.android.providers.calendar:/system/priv-app/CalendarProvider/CalendarProvider.apk",
+                "com.android.providers.userdictionary:/system/priv-app/UserDictionaryProvider/UserDictionaryProvider.apk",
+                "com.caf.fmradio:/system_ext/app/FM2/FM2.apk",
+                "com.google.android.gms:/product/priv-app/GmsCore/GmsCore.apk",
+                "com.android.vending:/product/priv-app/FakeStore/FakeStore.apk",
+                "com.google.android.gsf:/product/app/GsfProxy/GsfProxy.apk",
+                "org.fdroid.fdroid:/product/app/FDroid/FDroid.apk",
+                "org.fdroid.fdroid.privileged:/product/priv-app/FDroidPrivilegedExtension/FDroidPrivilegedExtension.apk",
+                "org.lineageos.audiofx:/system_ext/priv-app/AudioFX/AudioFX.apk",
+                "org.lineageos.camelot:/product/app/Camelot/Camelot.apk",
+                "org.lineageos.etar:/product/app/Etar/Etar.apk",
+                "org.lineageos.glimpse:/product/app/Glimpse/Glimpse.apk",
+                "org.lineageos.recorder:/product/app/Recorder/Recorder.apk",
+                "org.lineageos.twelve:/product/app/Twelve/Twelve.apk",
+                "io.chaldeaprjkt.gamespace:/system_ext/priv-app/GameSpace/GameSpace.apk",
+                "com.stevesoltys.seedvault:/system_ext/priv-app/Seedvault/Seedvault.apk",
+                "org.omnirom.logcat:/system_ext/app/MatLog/MatLog.apk"
+            ];
+
+            systemPackages.forEach(item => {
+                output += `system:${item} = ${form[item.split(':')[0]].value}\n`;
+            });
+
+            document.getElementById('output').textContent = output;
+        }
+    </script>
+</body>
+</html>
