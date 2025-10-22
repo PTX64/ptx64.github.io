@@ -3,7 +3,7 @@ style: is-light
 height: is-medium
 items:
   - title: crDroid+ v12.2 | Android 16
-    subtitle: Released on October 16, 2025.
+    subtitle: Released on October 23, 2025.
     icon: fa-shield-alt
     description: >
       Enjoy the latest features and improvements with crDroid+ v12.2.
@@ -11,7 +11,7 @@ items:
     call_to_action_link: https://github.com/PTX64/releases_sunny_crdroid/releases/tag/latest
     
   - title: LineageOS+ 23.0 | Android 16
-    subtitle: Released on October 16, 2025.
+    subtitle: Released on October 23, 2025.
     icon: fa-shield-alt
     description: >
       Experience a clean and customizable Android experience with LineageOS+ 23.0.
